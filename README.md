@@ -24,7 +24,8 @@ git clone git@github.com:vidit401/Nexus-SOSC.git
 
 ## How to Contribute
 
-- Pick an issue from the Issues tab
+- Pick or create an issue from the Issues tab
+- **Ask for approval** to work on your selected issue
 - Fork the repo
 - Create a new branch
 - Make changes
