@@ -16,7 +16,7 @@ Features
 ## Getting Started
 
 1. Clone the repository
-git clone git@github.com:vidit401/Nexus-SOSC.git
+`git clone git@github.com:vidit401/Nexus-SOSC.git`
 
 2. Open `index.html` in browser
 
