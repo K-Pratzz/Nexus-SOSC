@@ -45,4 +45,3 @@ function deleteEvent(index) {
   }
 
 }
-
